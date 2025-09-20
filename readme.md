@@ -1,15 +1,11 @@
 # ENSE 271
-I thought of including the main steps and features needed in a grocery delivery app that are browse, pay, track and record. 
+The purpose of this repository is to:
+- Store and showcase my lab assignments throughout the semester of fall 2025   
+- Organize a place to organize screenshots and documentation related to course projects  
 
-1. I chose 4 epics, namely cart/ shopping list, order history and buy product to keep it short and later expanded these.
-2. I added various tasks in mvp like add to basket, edit basket, place order, payment method. These all are some of the important steps needed for the user to use the app and place an order.
-3. I gave different estimates to each of the tasks varieing according to the priority of each and also the statuses.
-
-Extra features that could be added to refine the user interface is adding filters for the search menu and placing order using past order / adding items to cart from last order which could help save the time of customer.
-
-![Alt text](lab1/Screenshot%202025-09-19%20140346.png)
-![Alt text](lab1/Screenshot%202025-09-19%20140737.png)
-![Alt text](lab1/Screenshot%202025-09-19%20151908.png)
-![Alt text](lab1/Screenshot%202025-09-19%20152204.png)
-![Alt text](lab1/Capture.PNG)
-![Alt text](lab1/Capture1.PNG)
+//![Alt text](lab1/Screenshot%202025-09-19%20140346.png)
+//![Alt text](lab1/Screenshot%202025-09-19%20140737.png)
+//![Alt text](lab1/Screenshot%202025-09-19%20151908.png)
+//![Alt text](lab1/Screenshot%202025-09-19%20152204.png)
+//![Alt text](lab1/Capture.PNG)
+//![Alt text](lab1/Capture1.PNG)
