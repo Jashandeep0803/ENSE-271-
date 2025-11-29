@@ -7,4 +7,10 @@ I thought of including the main steps and features needed in a grocery delivery 
 
 Extra features that could be added to refine the user interface is adding filters for the search menu and placing order using past order / adding items to cart from last order which could help save the time of customer.
 
+![image](Capture.PNG)
 ![image](Capture1.PNG)
+![image](Capture2.PNG)
+![image](Capture3.PNG)
+![image](Capture4.PNG)
+![image](Capture5.PNG)
+
