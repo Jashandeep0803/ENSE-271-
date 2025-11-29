@@ -9,8 +9,9 @@ Extra features that could be added to refine the user interface is adding filter
 
 ![image](Capture.PNG)
 ![image](Capture1.PNG)
-![image](Capture2.PNG)
-![image](Capture3.PNG)
-![image](Capture4.PNG)
-![image](Capture5.PNG)
+![image](Capture2.png)
+![image](Capture3.png)
+![image](Capture4.png)
+![image](Capture5.png)
+
 
